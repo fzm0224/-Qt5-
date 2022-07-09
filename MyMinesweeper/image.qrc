@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/ui.jpg</file>
+        <file>res/a1.png</file>
+        <file>res/a2.png</file>
+        <file>res/about.png</file>
+        <file>res/choose.jpg</file>
+        <file>res/help.jpg</file>
+        <file>res/title1.jpg</file>
+        <file>res/title2.jpg</file>
+        <file>res/title3.jpg</file>
+        <file>res/choose1.jpg</file>
+        <file>res/choose2.jpg</file>
+        <file>res/choose3.jpg</file>
+        <file>res/a3.png</file>
+        <file>res/a4.png</file>
+        <file>res/1234.jpg</file>
+        <file>res/f1.png</file>
+        <file>res/f2.jpg</file>
+        <file>res/f6.png</file>
+        <file>res/bbk.png</file>
+        <file>res/mine.png</file>
+        <file>res/blue.png</file>
+        <file>res/flag.png</file>
+    </qresource>
+</RCC>
