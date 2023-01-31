@@ -3,11 +3,11 @@
 
 游戏界面：
 
+![image](https://user-images.githubusercontent.com/44105723/215805350-a456fa8e-8ef3-40a9-a8d6-1c3be141ecc6.png)
+
 ![image](https://user-images.githubusercontent.com/44105723/215804475-f08cc46e-6eb7-44be-bd56-fed7cbb5b988.png)
 
 ![image](https://user-images.githubusercontent.com/44105723/215804668-50c347d6-4e43-4a7e-b1dc-31c8875334d2.png)
-
-![image](https://user-images.githubusercontent.com/44105723/215804860-ee31cc39-2a2e-44b5-b5d0-ed954ed9457c.png)
 
 ![image](https://user-images.githubusercontent.com/44105723/215804945-31459cfd-2c39-4565-ae05-c8256b95c001.png)
 
